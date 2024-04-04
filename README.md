@@ -1,2 +1,2 @@
 # mi-primer-respositorio
-Mi primer respositorio para freeCodeCamp
+Mi primer respositorio en gitHub para freeCodeCamp
